@@ -219,8 +219,7 @@ MIT
 
 ## 👤 Autor
 
-Desenvolvido como projeto de portfólio profissional.
-
+Matheus Faria
 ---
 
 **⭐ Se este projeto foi útil, considere dar uma estrela!**
